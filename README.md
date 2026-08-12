@@ -1,16 +1,16 @@
-## Hi there 👋
+# Umut
 
-<!--
-**umutbalkaya2142/umutbalkaya2142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım Mühendisliği Öğrencisi | Manisa Celal Bayar Üniversitesi
 
-Here are some ideas to get you started:
+## Hakkımda
+Yazılım Mühendisliği 3. sınıf öğrencisi olarak akademik eğitimime devam etmekteyim. Web geliştirme teknolojileri ve ilişkisel veritabanı yönetim sistemleri üzerine odaklanan ekip projelerinde görev aldım. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mevcut odağımı siber güvenlik alanına yönelterek sistem güvenliği, ağ konseptleri ve Python ile uygulama geliştirme konularındaki teknik yetkinliklerimi artırmayı hedeflemekteyim.
+
+## Yetkinlikler ve Araçlar
+- Programlama / Web: JavaScript, Python (öğrenim aşamasında)
+- Veritabanı: SQL, İlişkisel Veritabanı Tasarımı
+- Sürüm Kontrolü: Git, GitHub
+
+## İletişim
+- LinkedIn: https://www.linkedin.com/in/umut-balkaya-75534431a/
